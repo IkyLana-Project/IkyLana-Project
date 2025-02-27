@@ -1,8 +1,6 @@
-###  :man_technologist:  [RizkyMaulana](https://IkyLana-Project.github.io)
+###  :man_technologist:  [RizkyMaulana](https://IkyLana-Project.github)
 
 👋 Hi, I'm Rizky Maulana,a passionate self-taught front-end developer. 
-
-[![RizkyMaulana's github stats](https://github-readme-stats.vercel.app/api?username=M.RizkyMaulana&count_private=true&show_icons=true&theme=radical)](https://github.com/IkyLana-Project)
 
 ### About
 
