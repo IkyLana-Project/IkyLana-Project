@@ -1,25 +1,33 @@
-<div align="center">
-  <h1>Hi👋. I'am Rizkyy!</h1>
-</div>
+###  :man_technologist:  [RizkyMaulana](https://IkyLana-Project.github.io)
 
-<div>
+👋 Hi, I'm Rizky Maulana,a passionate self-taught front-end developer. 
 
-<h2>Current skills</h2>
-  
-- <h4> Languages </h4>
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+[![RizkyMaulana's github stats](https://github-readme-stats.vercel.app/api?username=M.RizkyMaulana&count_private=true&show_icons=true&theme=radical)](https://github.com/IkyLana-Project)
 
-- <h4> Frameworks </h4>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"> -->
-  
-- <h4> Designing tools </h4>
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-  </div>
-  </div>
+### About
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
+-  **Languages :** PHP, JavaScript, Python, Go
+-  **Hobbies :** Basketball :basketball: & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart:
+-  **Contact me :** [WangNingkai](mailto:i@ningkai.wang)
+
+
+### Languages and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
