@@ -1,12 +1,10 @@
-###  :man_technologist:  [M.RizkyMaulana](https://IkyLana-Project.github)
-
 👋 Hi, I'm Rizky Maulana,a passionate self-taught front-end developer. 
 
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Html, Css, JavaScript, PHP, MySQL.
--  **Hobbies :** Basketball :basketball: & Music :headphones:
+-  **Hobbies :** Badminton :badminton: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 
 
