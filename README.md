@@ -4,7 +4,7 @@
 
 -  **Learning :** Web Developer :zap: | Open-Source :fire:    
 -  **Languages :** Html, Css, JavaScript, PHP, MySQL.
--  **Hobbies :** Badminton :badminton: & Music :headphones:
+-  **Hobbies :** Badminton :badminton:, Basketball :basketball: & Music :headphones:
 
 ### Languages and Tools
 
