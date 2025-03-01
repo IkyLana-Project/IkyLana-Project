@@ -2,7 +2,7 @@
 
 ### About
 
--  **Learning :** Web Developer :man_technologist: & Design Web :paintbrush: | Open-Source :fire:    
+-  **Learning :** Web Developer & Design Web :man_technologist: | Open-Source :fire:    
 -  **Languages :** Html, Css, JavaScript, PHP, MySQL.
 -  **Hobbies :** Badminton :badminton:, Basketball :basketball: & Music :headphones:
 
