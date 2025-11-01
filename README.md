@@ -3,7 +3,7 @@
 ### About
 
 -  **Learning :** Web Developer & Design Web :man_technologist: | Open-Source :fire:    
--  **Languages :** JavaScript, PHP, C++.
+-  **Languages :** JavaScript & PHP.
 -  **Hobbies :** Badminton :badminton:& Music :headphones:
 
 ### Languages and Frameworks
