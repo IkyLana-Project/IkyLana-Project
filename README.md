@@ -4,7 +4,7 @@
 
 -  **Learning :** Web Developer & Design Web :man_technologist: | Open-Source :fire:    
 -  **Languages :** JavaScript & PHP.
--  **Hobbies :** Badminton :badminton:& Music :headphones:
+-  **Hobbies :** Reading book :book: & Music :headphones:
 
 ### Languages and Frameworks
 
